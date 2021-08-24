@@ -1,0 +1,5 @@
+﻿  STL案例2_员工分组.cpp
+C:\Users\yuyuk\Desktop\aalto_work and_course\CS & AI\c++\Cpp-0-1-Resource-master\Cpp-0-1-Resource-master\coding_cpp_0_1\STL_函数对象\STL案例2_员工分组.cpp(37,13): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+C:\Users\yuyuk\Desktop\aalto_work and_course\CS & AI\c++\Cpp-0-1-Resource-master\Cpp-0-1-Resource-master\coding_cpp_0_1\STL_函数对象\STL案例2_员工分组.cpp(44,14): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+C:\Users\yuyuk\Desktop\aalto_work and_course\CS & AI\c++\Cpp-0-1-Resource-master\Cpp-0-1-Resource-master\coding_cpp_0_1\STL_函数对象\STL案例2_员工分组.cpp(51,15): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+  STL_函数对象.vcxproj -> C:\Users\yuyuk\Desktop\aalto_work and_course\CS & AI\c++\Cpp-0-1-Resource-master\Cpp-0-1-Resource-master\coding_cpp_0_1\STL_函数对象\Debug\STL_函数对象.exe

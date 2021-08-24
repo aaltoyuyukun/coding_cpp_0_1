@@ -1,0 +1,2 @@
+﻿源.obj : error LNK2005: _main 已经在 01 C++书写HelloWorld.obj 中定义
+C:\Users\yuyuk\Desktop\aalto_work and_course\CS & AI\c++\Cpp-0-1-Resource-master\Cpp-0-1-Resource-master\coding_cpp_0_1\C++书写HelloWorld\Debug\C++书写HelloWorld.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

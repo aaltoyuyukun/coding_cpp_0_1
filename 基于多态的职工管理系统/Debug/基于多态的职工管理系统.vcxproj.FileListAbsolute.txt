@@ -1,0 +1,2 @@
+C:\Users\yuyuk\Desktop\aalto_work and_course\CS & AI\c++\Cpp-0-1-Resource-master\Cpp-0-1-Resource-master\coding_cpp_0_1\基于多态的职工管理系统\Debug\基于多态的职工管理系统.exe
+C:\Users\yuyuk\Desktop\aalto_work and_course\CS & AI\c++\Cpp-0-1-Resource-master\Cpp-0-1-Resource-master\coding_cpp_0_1\基于多态的职工管理系统\Debug\基于多态的职工管理系统.pdb
